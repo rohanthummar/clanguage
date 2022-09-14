@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+void main()
+{
+const float r=14.10;
+clrscr();
+       r=14.10;
+       printf("you have declare constant value %f",r);
+getch();
+}
